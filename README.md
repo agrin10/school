@@ -26,10 +26,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
+`` javascript 
+function hello(){
+    console.log("hello world!");
+}
 
-'''javascript
-console.log("hello world");
-'''
+``
 
 ---
 |              Name                    |             Description              |             Description             |
